@@ -34,6 +34,8 @@ We release two paragraph-level benchmarks to support evaluation of diverse news 
     - 147 global events, 7,532 paragraphs.
     - Focused on evaluating generalizability across global news.
 
+Please upzip the dataset before running.
+
 ## Installation
 
 ```bash
